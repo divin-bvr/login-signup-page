@@ -6,4 +6,9 @@ simple  login and signup page with PHP, HTML, JS, CSS connected to mysql databas
 <img width="960" alt="Screenshot 2022-08-09 173354" src="https://user-images.githubusercontent.com/68641937/183699152-5c843e41-1238-4a71-bcf7-73feefffe3f1.png">
 <img width="955" alt="Screenshot 2022-08-09 173804" src="https://user-images.githubusercontent.com/68641937/183699159-67822eb6-c011-4fda-ac5f-6b3713f9f1d8.png">
 
+NOTE 
+1.Your Xampp server should have this setting
 
+<img width="613" alt="Screenshot 2022-08-09 202736" src="https://user-images.githubusercontent.com/68641937/183720037-b89f7599-724f-48b6-817a-56a6e1da4669.png">
+
+Signup and login
